@@ -9,3 +9,5 @@ A repository with Resources I used to learn stuff during my PhD journey
 
 #### A super nice tool to downlaod any SRR data in parallel, thereby saving time 
 https://github.com/rvalieris/parallel-fastq-dump
+
+#### A cool explanantrion of bowtie2: https://medium.com/@manabeel.vet/a-beginners-guide-to-genomic-data-analysis-genome-mapping-using-bowtie2-2a5772883e49
